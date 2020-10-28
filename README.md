@@ -3,7 +3,20 @@
 
 # Introduction to Machine Learning with Scikit Learn Workshop
 
-Repository of materials for the Introduction to Machine Learning with [Scikit Learn](https://scikit-learn.org/stable/) Workshop. 
+The [KAUST Visualization Core Lab (KVL)](https://corelabs.kaust.edu.sa/visualization/) will host a two-part *Introduction to Machine Learning with Scikit-Learn* workshop on **Thursday, 5 November 2020** and **Thursday, 12 November 2020** from **1 to 5 pm**. The workshops will largely follow Chapter 2 of [*Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow*](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) which walks through the process of developing an end-to-end machine learning project with [Scikit-Learn](https://scikit-learn.org/stable/index.html).
+
+**5 November 2020, 1-5 pm AST (UTC+3)**
+* Working with Real Data
+* Understanding the Big Picture
+* Getting the Data
+* Discovering and Visualizing the Data to Gain Insights
+
+**12 November 2020, 1-5 pm AST (UTC+3)**
+* Preparing the Data for Machine Learning Algorithms
+* Selecting and Training a Model
+* Fine Tuning Your Model
+
+The workshops will be hosted on Zoom with the relevant details sent out to registered participants prior to the event. Both workshops will be recorded with the recordings released via the [KVL YouTube Channel](https://www.youtube.com/channel/UCR1RFwgvADo5CutK0LnZRrw). 
 
 ## Project organization
 
