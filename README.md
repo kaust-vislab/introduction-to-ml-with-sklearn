@@ -13,6 +13,8 @@ The [KAUST Visualization Core Lab (KVL)](https://corelabs.kaust.edu.sa/visualiza
 * Selecting and Training a Model
 * Fine Tuning Your Model
 
+This hands-on lesson is part of the Introduction to Data Science Workshop Series being offered by KVL as part of our on-going efforts to build capacity in core data science skills both at KAUST and within the Kingdom of Saudi Arabia (KSA).
+
 The workshop will be hosted on Zoom with the relevant details sent out to registered participants prior to the event. The workshop will be recorded with the recording released via the [KVL YouTube Channel](https://www.youtube.com/channel/UCR1RFwgvADo5CutK0LnZRrw). 
 
 ## Project organization
