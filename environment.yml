@@ -5,27 +5,27 @@ channels:
   - defaults
 
 dependencies:
-  - dask=2.30
+  - dask=2021.1.0
   - dask-ml=1.7
-  - featuretools=0.20
-  - hvplot=0.6
+  - featuretools=0.23
+  - hvplot=0.7
   - imbalanced-learn=0.7
-  - jupyterlab=2.2
+  - jupyterlab=3.0
   - jupyterlab-git=0.22
   - kaggle=1.5
-  - lightgbm=3.0
+  - lightgbm=3.1
   - matplotlib=3.3
-  - nodejs=14.9
-  - numba=0.51
-  - optuna=2.2
-  - pandas=1.1
-  - pandas-datareader=0.9
+  - numba=0.52
+  - optuna=2.4
+  - pandas=1.2
+  - pandas-datareader=0.8
   - panel=0.10
-  - pip=20.2
+  - pip=20.3
   - pip:
     - -r file:requirements.txt
   - pyarrow=2.0
   - python=3.8
-  - scikit-learn=0.23
-  - umap-learn=0.4
-  - xgboost=1.2
+  - pyviz_comms=2.0
+  - scikit-learn=0.24
+  - umap-learn=0.5
+  - xgboost=1.3
