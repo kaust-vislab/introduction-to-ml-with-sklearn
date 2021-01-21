@@ -1,3 +1,0 @@
-jupyter labextension install --no-build dask-labextension  # client-side component; server-side installed via conda/pip
-jupyter labextension install --no-build @pyviz/jupyterlab_pyviz
-jupyter lab build
