@@ -17,6 +17,14 @@ This hands-on lesson is part of the Introduction to Data Science Workshop Series
 
 The workshop will be hosted on Zoom with the relevant details sent out to registered participants prior to the event. The workshop will be recorded with the recording released via the [KVL YouTube Channel](https://www.youtube.com/channel/UCR1RFwgvADo5CutK0LnZRrw). 
 
+## Workshop registration
+
+If you are interested in registering for this workshop, then please see the following links.
+
+[KAUST Affiliated](https://kaustforms.formstack.com/forms/intro_to_ml_with_sklearn_spring_2021_kaust)
+
+[Non-KAUST Affiliated](https://kaustforms.formstack.com/forms/intro_to_ml_with_sklearn_spring_2021_non_kaust)
+
 ## Project organization
 
 Project organization is based on ideas from [_Good Enough Practices for Scientific Computing_](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510).
