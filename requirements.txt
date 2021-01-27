@@ -1,3 +1,4 @@
 combo==0.1.*
 dask-labextension==5.0.*
+jupyter-offlinenotebook==0.2.*
 shap==0.38.*
